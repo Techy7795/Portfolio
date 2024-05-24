@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/Gs.png",
+    img: "/GS.png",
     title: "Grocery Store Management",
     description:
       "By optimizing order processing and inventory management, you can provide your customers with a seamless shopping experience.",
