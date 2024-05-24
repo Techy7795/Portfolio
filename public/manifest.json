@@ -1,0 +1,20 @@
+{
+  "short_name": "Sai Krishna",
+  "name": "Sai Krishna",
+  "icons": [
+    {
+      "src": "https://skillicons.dev/icons?i=svelte",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "imag/svg+xml"
+    },
+    {
+      "src": "https://skillicons.dev/icons?i=svelte",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
