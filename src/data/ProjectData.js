@@ -14,17 +14,17 @@ export const ProjectList = [
     title: "Audio Classification",
     description:
       "Using deep learning techniques, the model can effectively identify crying sounds amidst various background noises.",
-    tech_stack: ["Python", "MatPlotLib","KNN"],
+    tech_stack: ["Python", "SVM", "GridSearchCV", "Machine Learning Pipeline"],
     github_url: "https://github.com/Techy7795/Audio-Classification",
     // demo_url: "",
   },
   {
-    img: "/FD.png",
-    title: "Face Detection",
+    img: "/FD.jpg",
+    title: "Plant Disease Detection",
     description:
       "Using deep learning techniques, the model can effectively identify unknown faces and provide security.",
-    tech_stack: ["Python", "KNN", "Flask", "MatPlotLib"],
-    github_url: "https://github.com/Techy7795/Face-Detection",
+    tech_stack: ["Python", "CNN", "TensorFlow", "Keras"],
+    github_url: "https://github.com/Techy7795/Plant-Disease-Detection",
     // demo_url: "",
   },
   {
@@ -32,7 +32,7 @@ export const ProjectList = [
     title: "Drowsiness Detection",
     description:
       "The Driver Drowsiness Detection System is a safety-oriented application designed to monitor the alertness level of drivers in real-time. ",
-    tech_stack: ["Python", "Flask", "OpenCV"],
+    tech_stack: ["Python", "Flask", "OpenCV", "Dlib"],
     github_url: "https://github.com/Techy7795/Drowsiness-Detection",
     // demo_url: "",
   },
