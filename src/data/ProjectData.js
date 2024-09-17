@@ -1,12 +1,12 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/GS.png",
-    title: "Grocery Store Management",
+    img: "/FD.jpg",
+    title: "Plant Disease Detection",
     description:
-      "By optimizing order processing and inventory management, you can provide your customers with a seamless shopping experience.",
-    tech_stack: ["Flask", "MySql", "HTML", "CSS","JavaScript"],
-    github_url: "https://github.com/Techy7795/Grocery-Store-Management",
+      "Using deep learning techniques, the model can effectively identify plant disease by seeing images of the leaf.",
+    tech_stack: ["Python", "CNN", "TensorFlow", "Keras"],
+    github_url: "https://github.com/Techy7795/Plant-Disease-Detection",
     // demo_url: "",
   },
   {
@@ -19,21 +19,21 @@ export const ProjectList = [
     // demo_url: "",
   },
   {
-    img: "/FD.jpg",
-    title: "Plant Disease Detection",
-    description:
-      "Using deep learning techniques, the model can effectively identify plant disease by seeing images of the leaf.",
-    tech_stack: ["Python", "CNN", "TensorFlow", "Keras"],
-    github_url: "https://github.com/Techy7795/Plant-Disease-Detection",
-    // demo_url: "",
-  },
-  {
     img: "/DD.png",
     title: "Drowsiness Detection",
     description:
       "The Driver Drowsiness Detection System is a safety-oriented application designed to monitor the alertness level of drivers in real-time. ",
     tech_stack: ["Python", "Flask", "OpenCV", "Dlib"],
     github_url: "https://github.com/Techy7795/Drowsiness-Detection",
+    // demo_url: "",
+  },
+  {
+    img: "/GS.png",
+    title: "Grocery Store Management",
+    description:
+      "By optimizing order processing and inventory management, you can provide your customers with a seamless shopping experience.",
+    tech_stack: ["Flask", "MySql", "HTML", "CSS","JavaScript"],
+    github_url: "https://github.com/Techy7795/Grocery-Store-Management",
     // demo_url: "",
   },
   {
