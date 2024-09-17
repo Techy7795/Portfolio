@@ -13,7 +13,7 @@ export const ProjectList = [
     img: "/AC.png",
     title: "Audio Classification",
     description:
-      "Using deep learning techniques, the model can effectively identify crying sounds amidst various background noises.",
+      "Using Machine learning techniques, the model can effectively identify crying sounds amidst various background noises.",
     tech_stack: ["Python", "SVM", "GridSearchCV", "Machine Learning Pipeline"],
     github_url: "https://github.com/Techy7795/Audio-Classification",
     // demo_url: "",
