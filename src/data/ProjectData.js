@@ -22,7 +22,7 @@ export const ProjectList = [
     img: "/FD.jpg",
     title: "Plant Disease Detection",
     description:
-      "Using deep learning techniques, the model can effectively identify unknown faces and provide security.",
+      "Using deep learning techniques, the model can effectively identify plant disease by seeing images of the leaf.",
     tech_stack: ["Python", "CNN", "TensorFlow", "Keras"],
     github_url: "https://github.com/Techy7795/Plant-Disease-Detection",
     // demo_url: "",
