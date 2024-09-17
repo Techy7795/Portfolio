@@ -31,7 +31,7 @@ export const ProjectList = [
     img: "/GS.png",
     title: "Grocery Store Management",
     description:
-      "By optimizing order processing and inventory management, you can provide your customers with a seamless shopping experience.",
+      "Implemented user-friendly interfaces and efficient data management features, which lead to improved inventory control and sales tracking with functionalities such as item categorization, stock updates, and sales reporting.",
     tech_stack: ["Flask", "MySql", "HTML", "CSS","JavaScript"],
     github_url: "https://github.com/Techy7795/Grocery-Store-Management",
     // demo_url: "",
